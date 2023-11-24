@@ -1,0 +1,10 @@
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\bin\Debug\BasicCSharpAssignmentTask-3.exe.config
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\bin\Debug\BasicCSharpAssignmentTask-3.exe
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\bin\Debug\BasicCSharpAssignmentTask-3.pdb
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\obj\Debug\BasicCSharpAssignmentTask-3.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\obj\Debug\BasicCSharpAssignmentTask-3.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\obj\Debug\BasicCSharpAssignmentTask-3.exe
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\obj\Debug\BasicCSharpAssignmentTask-3.pdb
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\bin\Debug\ArithMeticLib.dll
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\bin\Debug\ArithMeticLib.pdb
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-3\BasicCSharpAssignmentTask-3\obj\Debug\BasicCSharpAssignmentTask-3.csproj.CopyComplete

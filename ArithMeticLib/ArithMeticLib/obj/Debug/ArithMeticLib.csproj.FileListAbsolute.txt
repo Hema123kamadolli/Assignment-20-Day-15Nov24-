@@ -1,0 +1,6 @@
+C:\mphasis-B2\Day-15\Assignment-20\ArithMeticLib\ArithMeticLib\bin\Debug\ArithMeticLib.dll
+C:\mphasis-B2\Day-15\Assignment-20\ArithMeticLib\ArithMeticLib\bin\Debug\ArithMeticLib.pdb
+C:\mphasis-B2\Day-15\Assignment-20\ArithMeticLib\ArithMeticLib\obj\Debug\ArithMeticLib.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-15\Assignment-20\ArithMeticLib\ArithMeticLib\obj\Debug\ArithMeticLib.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-15\Assignment-20\ArithMeticLib\ArithMeticLib\obj\Debug\ArithMeticLib.dll
+C:\mphasis-B2\Day-15\Assignment-20\ArithMeticLib\ArithMeticLib\obj\Debug\ArithMeticLib.pdb

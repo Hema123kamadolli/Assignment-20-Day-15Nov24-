@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-4\BasicCSharpAssignmentTask-4\bin\Debug\BasicCSharpAssignmentTask-4.exe.config
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-4\BasicCSharpAssignmentTask-4\bin\Debug\BasicCSharpAssignmentTask-4.exe
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-4\BasicCSharpAssignmentTask-4\bin\Debug\BasicCSharpAssignmentTask-4.pdb
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-4\BasicCSharpAssignmentTask-4\obj\Debug\BasicCSharpAssignmentTask-4.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-4\BasicCSharpAssignmentTask-4\obj\Debug\BasicCSharpAssignmentTask-4.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-4\BasicCSharpAssignmentTask-4\obj\Debug\BasicCSharpAssignmentTask-4.exe
+C:\mphasis-B2\Day-15\Assignment-20\BasicCSharpAssignmentTask-4\BasicCSharpAssignmentTask-4\obj\Debug\BasicCSharpAssignmentTask-4.pdb
